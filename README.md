@@ -1,3 +1,3 @@
 # Flappy-clone
 
-small game in portfolio
+small game in portfolio.
